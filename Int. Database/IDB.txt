@@ -1,0 +1,50 @@
+1. carilah 10 definisi database
+2. buatlah definisi sendiri tentang apa itu database
+3. carilah 10 definisi apa itu sistem
+4. buatlah definisi sendiri apa itu sistem
+5. carilah 10 definisi sistem informasi dan definisikan sendiri apa itu sistem informasi
+
+1. 
+-Database atau yang dikenal juga dengan istilah basis data adalah sekumpulan data yang dikelola dengan sedemikian rupa berdasarkan ketentuan tertentu yang saling berkaitan sehingga memudahkan dalam pengelolaannya.
+-Database adalah kumpulan informasi yang disimpan di dalam komputer secara sistematik sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut. Database adalah representasi kumpulan fakta yang saling berhubungan disimpan secara bersama sedemikian rupa dan tanpa pengulangan (redudansi) yang tidak perlu, untuk memenuhi berbagai kebutuhan.
+-Database (pangkalan data) merupakan istilah teknologi jaringan komputer yang memiliki banyak manfaat berupa penyimpanan data yang saling berhubungan dan perangkat lunaknya seharusnya mengacu sebagai sistem manajemen basis data (data management system atau DBMS).
+-Dilihat dari segi bahasa maka database juga dapat disebut basis data. Suatu data dapat dimaksudkan informasi yang diperoleh dan disimpan sedangkan basis adalah semacam perkumpulan atau tempat berkumpul. Maka dapat diambil kesimpulan bahwa arti dari database adalah kumpulan data atau informasi yang diperoleh dan selanjutnya disimpan dalam suatu media, umumnya adalah di komputer.
+-Basis data dapat didefinisikan atau diartikan sebagai kumpulan data yang disimpan secara sistematis di dalam komputer yang dapat diolah atau dimanipulasi menggunakan perangkat lunak (software) program atau aplikasi untuk menghasilkan informasi. Pendefinisian basis data meliputi spesifikasi berupa tipe data, struktur data dan juga batasan-batasan pada data yang kemudian disimpan.
+-Database adalah kumpulan informasi informasi yang disimpan di dalam komputer secara sistematik sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut. 
+-Database pengertian umumnya adalah sistem penyimpanan data dimana data yang sudah banyak diinput disimpan dalam satu sistem penyimpanan.
+-Sebuah database atau basis data dapat menyimpan semua jenis informasi, seperti transaksi keuangan, catatan data sensitif dan bahkan semua industri terlebih lagi pemerintah telah menerapkan database merek tersendiri. Secara analogi, database dapat dianggap sebagai lemari arsip raksasa yang dapat menyimpan sejumlah besar informasi yang dapat Anda rujuk dengan mudah.
+-Database adalah kumpulan data dalam bentuk tabel, skema, objek, view, query dan sebagainya yang disimpan secara rapi dan sistematis dalam komputer serta dapat diolah dengan program aplikasi sehingga menghasilkan suatu informasi penting.
+-kumpulan data item yang saling terhubung, terkelola menjadi satu unit. Database merupakan data yang secara sistematis di simpan di dalam komputer. Data tersebut dapat diolah/ dimanipulasi dengan menggunakan sebuah program aplikasi untuk menghasilkan informasi.
+-Database adalah kumpulan data digital yang disimpan secara sistematis di dalam komputer. Kumpulan data ini dapat diakses dan diolah menggunakan sebuah program.
+
+2.
+
+3.
+-Sistem adalah suatu kesatuan, baik obyek nyata atau abstrak yang terdiri dari berbagai komponen atau unsur yang saling berkaitan, saling tergantung, saling mendukung, dan secara keseluruhan bersatu dalam satu kesatuan untuk mencapai tujuan tertentu secara efektif dan efisien.
+-Sistem adalah perangkat unsur yang secara teratur saling berkaitan sehingga membentuk suatu totalitas. Sistem juga diartikan sebagai susunan yang teratur dari pandangan, teori, asas, dan sebagainya.
+-Pengertian sistem menurut Cambridge Dictonary adalah cara untuk melakukan sesuatu. Ini didefinisikan seperti satu set benda atau perangkat terhubung yang beroperasi bersama. Pengertian sistem juga bisa berarti satu set peralatan komputer dan program yang digunakan bersama untuk tujuan tertentu atau sekumpulan organ atau struktur dalam tubuh yang memiliki tujuan tertentu.
+-Pengertian sistem menurut Meriam-Webster adalah interaksi secara teratur atau kelompok item yang saling bergantung membentuk satu kesatuan yang utuh. Sistem juga didefinisikan Meriam-Webster sebagai seperangkat ajaran, gagasan, atau asas yang terorganisasi biasanya dimaksudkan untuk menjelaskan pengaturan atau cara kerja dari keseluruhan yang sistematis.
+-Pengertian sistem secara umum adalah suatu kesatuan, baik obyek nyata maupun abstrak yang terdiri atas berbagai komponen serta unsur yang saling berkaitan, saling mendukung, saling tergantung, dan secara keseluruhan bersatu dalam satu kesatuan guna mencapai tujuan tertentu secara efisien dan efektif.
+-Sistem merupakan gabungan obyek yang memiliki hubungan secara fungsi dan hubungan antara setiap ciri obyek, secara keseluruhan menjadi suatu kesatuan yang berfungsi.
+-Sistem merupakan kumpulan dari komponen-komponen yang saling memiliki unsur keterkaitan antara satu dengan lainnya.
+-Sistem merupakan kumpulan dari elemen-elemen yang berinteraksi untuk mencapai suatu tujuan tertentu yang menggambarkan berbagai kejadian dan kesatuan yang nyata, seperti tempat, benda dan orang-orang yang betul-betul ada dan terjadi.
+-Sistem merupakan suatu keseluruhan yang telah dibentuk dari berbagai macam bagian atau suatu assambel dari berbagai macam sifat dan bagian-bagian tersebut.
+-Sistem merupakan kumpulan dari objek yang mempunyai suatu hubungan antara masing-masing obyek termasuk hubungan mengenai sifat-sifat yang mereka miliki.
+-Sistem merupakan suatu jaringan kerja dari pada prosedur-prosedur yang saling berkaitan, berkumpul secara bersama-sama supaya dapat menjalankan suatu kegiatan atau mencapai tujuan tertentu.
+-Sistem merupakan suatu jaringan kerja dari prosedur yang saling berkaitan, berkumpul bersama untuk dapat melakukan aktivitas atau menyelesaikan suatu target tertentu.
+
+4.
+
+5.
+-Definisi dari sistem informasi (SI) secara umum adalah suatu sistem yang mengkombinasikan antara aktivitas manusia dan penggunaan teknologi untuk mendukung manajemen dan kegiatan operasional. Dimana, hal tersebut merujuk pada sebuah hubungan yang tercipta berdasarkan interaksi manusia, data, informasi, teknologi, dan algoritma.
+-Sistem Informasi (SI) adalah kombinasi dari teknologi informasi dan aktivitas orang yang menggunakan teknologi itu untuk mendukung operasi dan manajemen. Dalam arti yang sangat luas, istilah sistem informasi yang sering digunakan merujuk kepada interaksi antara orang, proses algoritmik, data, dan teknologi. Dalam pengertian ini, istilah ini digunakan untuk merujuk tidak hanya pada penggunaan organisasi teknologi informasi dan komunikasi (TIK), tetapi juga untuk cara di mana orang berinteraksi dengan teknologi ini dalam mendukung proses bisnis.
+-Sistem informasi adalah sistem yang menghasilkan informasi untuk membantu orang dalam mengambil keputusan.
+-Sistem informasi adalah sebuah kombinasi yang membentuk sistem guna mendapatkan sebuah informasi yang dibutuhkan.
+-Pengertian sistem adalah sekelompok elemen atau komponen yang digabungkan menjadi satu dengan tujuan untuk mencapai tujuan tertentu. Sedangkan pengertian informasi adalah sekumpulan data dan fakta yang telah melalui proses sehingga bisa dimengerti oleh penerimanya.
+-Sistem informasi adalah satu kesatuan data olahan yang terintegrasi dan saling melengkapi yang menghasilkan output baik dalam bentuk gambar, suara maupun tulisan.
+-Sistem informasi adalah sekumpulan komponen pembentuk sistem yang mempunyai keterkaitan antara satu komponen dengan komponen lainnya yang bertujuan menghasilkan suatu informasi dalam suatu bidang tertentu.
+-Sistem informasi adalah kumpulan antara sub-sub sistem yang salaing berhubungan yang membentuk suatu komponen yang didalamnya mencakup input-proses-output yang berhubungan dengan pengolaan informasi (data yang telah dioleh sehingga lebih berguna bagi user).
+-Sebuah sistem informasi merupakan suatu kumpulan atau seperangkat komponen yang berhubungan dan mendukung dengan fungsi mengumpulkan, memproses, menyimpan dan mendistribusikan informasi.
+-Suatu sistem informasi (SI) atau information system (IS) merupakan aransemen dari orang, data, proses-proses, dan antar-muka yang berinteraksi mendukung dan memperbaiki beberapa operasi sehari-hari dalam suatu bisnis termasuk mendukung memecahkan soal dan kebutuhan pembuat- keputusan manejemen dan para pengguna yang berpengalaman di bidangnya.
+-Sistem informasi adalah sekumpulan hardware, software, brainware, prosedur dan atau aturan yang diorganisasikan secara integral untuk mengolah data menjadi informasi yang bermanfaat guna memecahkan masalah dan pengambilan keputusan.
+
